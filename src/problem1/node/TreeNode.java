@@ -6,8 +6,6 @@
  */
 package problem1.node;
 
-import problem1.node.TreeNode;
-
 public class TreeNode {
   private int data;
     private TreeNode left;
